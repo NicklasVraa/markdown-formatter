@@ -2,7 +2,7 @@
     "name": "markdown-formatter",
     "main": "./lib/markdown-formatter",
     "version": "0.0.0",
-    "description": "A short description of your package",
+    "description": "Format selected markdown text.",
     "keywords": [],
     "activationCommands": {
         "atom-workspace": [
