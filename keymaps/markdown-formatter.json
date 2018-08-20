@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-b": "markdown-formatter:bold",
+    "ctrl-i": "markdown-formatter:italic"
+  }
+}

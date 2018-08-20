@@ -1,0 +1,18 @@
+{
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "markdown-formatter",
+            "submenu": [
+                {
+                    "label": "Bold",
+                    "command": "markdown-formatter:bold"
+                },
+                {
+                    "label": "Italic",
+                    "command": "markdown-formatter:italic"
+                }
+            ]
+        }]
+    }]
+}

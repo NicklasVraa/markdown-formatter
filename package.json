@@ -1,0 +1,19 @@
+{
+    "name": "markdown-formatter",
+    "main": "./lib/markdown-formatter",
+    "version": "0.0.0",
+    "description": "A short description of your package",
+    "keywords": [],
+    "activationCommands": {
+        "atom-workspace": [
+            "markdown-formatter:bold",
+            "markdown-formatter:italic"
+        ]
+    },
+    "repository": "https://github.com/nicklasvraa/markdown-formatter",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
+}
