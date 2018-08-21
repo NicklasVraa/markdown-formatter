@@ -11,6 +11,30 @@
                 {
                     "label": "Italic",
                     "command": "markdown-formatter:italic"
+                },
+                {
+                    "label": "Strikethrough",
+                    "command": "markdown-formatter:strikethrough"
+                },
+                {
+                    "label": "Code",
+                    "command": "markdown-formatter:code"
+                },
+                {
+                    "label": "Quote",
+                    "command": "markdown-formatter:quote"
+                },
+                {
+                    "label": "Key",
+                    "command": "markdown-formatter:key"
+                },
+                {
+                    "label": "Math",
+                    "command": "markdown-formatter:math"
+                },
+                {
+                    "label": "Header",
+                    "command": "markdown-formatter:header"
                 }
             ]
         }]

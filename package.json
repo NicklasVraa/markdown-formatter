@@ -7,7 +7,13 @@
     "activationCommands": {
         "atom-workspace": [
             "markdown-formatter:bold",
-            "markdown-formatter:italic"
+            "markdown-formatter:italic",
+            "markdown-formatter:strikethrough",
+            "markdown-formatter:key",
+            "markdown-formatter:quote",
+            "markdown-formatter:code",
+            "markdown-formatter:math",
+            "markdown-formatter:header"
         ]
     },
     "repository": "https://github.com/nicklasvraa/markdown-formatter",
