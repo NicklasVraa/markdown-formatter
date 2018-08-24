@@ -33,6 +33,10 @@
                     "command": "markdown-formatter:math"
                 },
                 {
+                    "label": "Flex ()",
+                    "command": "markdown-formatter:flex"
+                },
+                {
                     "label": "Header",
                     "command": "markdown-formatter:header"
                 }

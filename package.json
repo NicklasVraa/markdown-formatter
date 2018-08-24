@@ -13,6 +13,7 @@
             "markdown-formatter:quote",
             "markdown-formatter:code",
             "markdown-formatter:math",
+            "markdown-formatter:flex",
             "markdown-formatter:header"
         ]
     },
