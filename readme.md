@@ -1,8 +1,8 @@
 # Markdown formatter
 
-Very simple package to format selected text in markdown files.
+Very simple package for formatting selected text in markdown files.
 
-Wrap text in:
+**Wrap text in**:
 - bold
 - italic
 - strikethrough
@@ -10,6 +10,17 @@ Wrap text in:
 - header
 - code block
 - quote block
-- math block (for markdown-preview-plus)
+- latex
+    - math block
+    - flexible parentheses
+    - fraction
 
-using a keyboard shortcut.
+using a keyboard shortcut, menu click or the command palette.
+
+**In-dev features**:
+- Basic math completion in latex math blocks.
+- Context aware formatting
+
+&nbsp;
+
+By Nicklas Vraa

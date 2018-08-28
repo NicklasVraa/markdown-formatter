@@ -37,6 +37,10 @@
                     "command": "markdown-formatter:flex"
                 },
                 {
+                    "label": "Fraction",
+                    "command": "markdown-formatter:fraction"
+                },
+                {
                     "label": "Header",
                     "command": "markdown-formatter:header"
                 }
