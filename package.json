@@ -1,27 +1,27 @@
 {
-    "name": "markdown-formatter",
-    "main": "./lib/markdown-formatter",
-    "version": "0.0.0",
-    "description": "Format selected markdown text.",
-    "keywords": [],
-    "activationCommands": {
-        "atom-workspace": [
-            "markdown-formatter:bold",
-            "markdown-formatter:italic",
-            "markdown-formatter:strikethrough",
-            "markdown-formatter:key",
-            "markdown-formatter:quote",
-            "markdown-formatter:code",
-            "markdown-formatter:math",
-            "markdown-formatter:flex",
-            "markdown-formatter:fraction",
-            "markdown-formatter:header"
-        ]
-    },
-    "repository": "https://github.com/nicklasvraa/markdown-formatter",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    },
-    "dependencies": {}
+  "name": "markdown-formatter",
+  "main": "./lib/markdown-formatter",
+  "version": "0.1.0",
+  "description": "Format selected markdown text.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": [
+      "markdown-formatter:bold",
+      "markdown-formatter:italic",
+      "markdown-formatter:strikethrough",
+      "markdown-formatter:key",
+      "markdown-formatter:quote",
+      "markdown-formatter:code",
+      "markdown-formatter:math",
+      "markdown-formatter:flex",
+      "markdown-formatter:fraction",
+      "markdown-formatter:header"
+    ]
+  },
+  "repository": "https://github.com/nicklasvraa/markdown-formatter",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
