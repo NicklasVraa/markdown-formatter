@@ -41,6 +41,10 @@
                     "command": "markdown-formatter:fraction"
                 },
                 {
+                    "label": "derivative",
+                    "command": "markdown-formatter:derivative"
+                },
+                {
                     "label": "Header",
                     "command": "markdown-formatter:header"
                 }

@@ -15,6 +15,7 @@
       "markdown-formatter:math",
       "markdown-formatter:flex",
       "markdown-formatter:fraction",
+      "markdown-formatter:derivative",
       "markdown-formatter:header"
     ]
   },
