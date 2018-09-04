@@ -16,6 +16,7 @@
       "markdown-formatter:flex",
       "markdown-formatter:fraction",
       "markdown-formatter:derivative",
+      "markdown-formatter:integral",
       "markdown-formatter:header"
     ]
   },

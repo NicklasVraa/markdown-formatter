@@ -14,6 +14,8 @@ Very simple package for formatting selected text in markdown files.
     - math block
     - flexible parentheses
     - fraction
+    - derivative
+    - integral
 
 using a keyboard shortcut, menu click or the command palette.
 

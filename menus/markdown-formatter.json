@@ -45,6 +45,10 @@
                     "command": "markdown-formatter:derivative"
                 },
                 {
+                    "label": "integral",
+                    "command": "markdown-formatter:integral"
+                },
+                {
                     "label": "Header",
                     "command": "markdown-formatter:header"
                 }
