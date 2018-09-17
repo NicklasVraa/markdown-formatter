@@ -49,8 +49,8 @@
                     "command": "markdown-formatter:integral"
                 },
                 {
-                    "label": "Header",
-                    "command": "markdown-formatter:header"
+                    "label": "Bar",
+                    "command": "markdown-formatter:bar"
                 }
             ]
         }]

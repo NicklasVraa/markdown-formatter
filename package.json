@@ -17,7 +17,7 @@
       "markdown-formatter:fraction",
       "markdown-formatter:derivative",
       "markdown-formatter:integral",
-      "markdown-formatter:header"
+      "markdown-formatter:bar"
     ]
   },
   "repository": "https://github.com/nicklasvraa/markdown-formatter",
