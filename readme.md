@@ -1,7 +1,7 @@
 # Markdown formatter
 
 Very simple package for formatting selected text in markdown files.
-If keyboard shortcuts aren't your thing, I recommend combining this package with the **flex-toolbar** and **process-palette** packages to create buttons for each wrapper.
+If keyboard shortcuts aren't your thing, I recommend combining this package with the **flex-toolbar** and **process-palette** packages to create buttons for each function.
 
 **Wrap text in**:
 - Formatting
@@ -13,7 +13,7 @@ If keyboard shortcuts aren't your thing, I recommend combining this package with
 - Special blocks
   - code block
   - quote block
-- latex
+- Pandoc latex
   - math block
   - flexible parentheses
   - fraction
@@ -23,9 +23,5 @@ If keyboard shortcuts aren't your thing, I recommend combining this package with
 
 **In-dev features**:
 - Basic math completion in latex math blocks.
-- Context aware formatting
-- Header
-
-&nbsp;
-
-By Nicklas Vraa
+- Context aware formatting.
+- Auto uppercasing.
