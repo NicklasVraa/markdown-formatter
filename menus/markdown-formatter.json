@@ -1,58 +1,61 @@
 {
-    "menu": [{
-        "label": "Packages",
-        "submenu": [{
-            "label": "markdown-formatter",
-            "submenu": [
-                {
-                    "label": "Bold",
-                    "command": "markdown-formatter:bold"
-                },
-                {
-                    "label": "Italic",
-                    "command": "markdown-formatter:italic"
-                },
-                {
-                    "label": "Strikethrough",
-                    "command": "markdown-formatter:strikethrough"
-                },
-                {
-                    "label": "Code",
-                    "command": "markdown-formatter:code"
-                },
-                {
-                    "label": "Quote",
-                    "command": "markdown-formatter:quote"
-                },
-                {
-                    "label": "Key",
-                    "command": "markdown-formatter:key"
-                },
-                {
-                    "label": "Math",
-                    "command": "markdown-formatter:math"
-                },
-                {
-                    "label": "Flex ()",
-                    "command": "markdown-formatter:flex"
-                },
-                {
-                    "label": "Fraction",
-                    "command": "markdown-formatter:fraction"
-                },
-                {
-                    "label": "derivative",
-                    "command": "markdown-formatter:derivative"
-                },
-                {
-                    "label": "integral",
-                    "command": "markdown-formatter:integral"
-                },
-                {
-                    "label": "Bar",
-                    "command": "markdown-formatter:bar"
-                }
-            ]
-        }]
+  "menu": [{
+    "label": "Packages",
+    "submenu": [{
+      "label": "markdown-formatter",
+      "submenu": [{
+          "label": "Bold",
+          "command": "markdown-formatter:bold"
+        },
+        {
+          "label": "Italic",
+          "command": "markdown-formatter:italic"
+        },
+        {
+          "label": "Strikethrough",
+          "command": "markdown-formatter:strikethrough"
+        },
+        {
+          "label": "Code",
+          "command": "markdown-formatter:code"
+        },
+        {
+          "label": "Quote",
+          "command": "markdown-formatter:quote"
+        },
+        {
+          "label": "Key",
+          "command": "markdown-formatter:key"
+        },
+        {
+          "label": "Math",
+          "command": "markdown-formatter:math"
+        },
+        {
+          "label": "Flex ()",
+          "command": "markdown-formatter:flex"
+        },
+        {
+          "label": "Fraction",
+          "command": "markdown-formatter:fraction"
+        },
+        {
+          "label": "derivative",
+          "command": "markdown-formatter:derivative"
+        },
+        {
+          "label": "integral",
+          "command": "markdown-formatter:integral"
+        },
+        {
+          "label": "Bar",
+          "command": "markdown-formatter:bar"
+        },
+        {
+          "label": "Toggle Case",
+          "command": "markdown-formatter:case"
+        }
+      ]
     }]
+  }]
 }
