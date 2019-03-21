@@ -1,7 +1,7 @@
 {
   "name": "markdown-formatter",
   "main": "./lib/markdown-formatter",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Format selected markdown text.",
   "keywords": [],
   "activationCommands": {
