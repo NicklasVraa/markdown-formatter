@@ -2,7 +2,7 @@
   "menu": [{
     "label": "Packages",
     "submenu": [{
-      "label": "markdown-formatter",
+      "label": "Markdown formatter",
       "submenu": [{
           "label": "Bold",
           "command": "markdown-formatter:bold"
