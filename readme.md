@@ -1,6 +1,5 @@
 # Markdown formatter
-
-Very simple package for formatting selected text in markdown files.
+Very simple Atom Editor package for formatting selected text in markdown files.
 If keyboard shortcuts aren't your thing, I recommend combining this package with the **flex-toolbar** and **process-palette** packages to create buttons for each function.
 
 **Wrap text in**:
